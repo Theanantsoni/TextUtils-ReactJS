@@ -119,18 +119,20 @@ Building real-world mini applications
 
 🎥 Demo
 
-[Add YouTube Demo Link Here]
+https://youtu.be/uFYAN14cm9o?si=2C6gmrQ-FFM5Pzmu
 
 <br><br>
 
-📂 GitHub Repository
+📂 GitHub Repository:
 
 https://github.com/Theanantsoni/TextUtils-ReactJS
 
 <br><br>
 
 🔗 Connect with Me
+
 LinkedIn:
+
 https://www.linkedin.com/in/anant-soni-b737662a2
 
 <br><br>
