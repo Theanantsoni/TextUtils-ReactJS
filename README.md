@@ -1,70 +1,146 @@
-# Getting Started with Create React App
+# 🚀 TextUtils – React JS Web App
+Author: Anant Soni
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple yet powerful **React-based text utility application** that helps users analyze and manipulate text efficiently in real-time.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 📌 Overview
 
-### `npm start`
+TextUtils is a beginner-friendly project built using **React JS** that demonstrates core frontend concepts like state management, component-based architecture, and dynamic UI updates.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+It allows users to perform various text operations instantly with a clean and responsive interface.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## ✨ Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- 🔠 Convert text to **Uppercase & Lowercase**
+- ✂️ Remove **extra spaces**
+- 📋 **Copy text** to clipboard
+- 🧹 **Clear text** instantly
+- 🔢 **Word & character counter**
+- ⏱️ **Reading time estimation**
+- 👀 **Live preview** of text
+- 🌗 **Light / Dark mode toggle**
+- ⚡ Fast and responsive UI
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🧱 Tech Stack
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- React JS
+- JavaScript (ES6+)
+- HTML5
+- CSS / Bootstrap
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+```
+src/
+├── component/
+│ ├── Navbar.js # Navigation bar + theme toggle
+│ ├── TextForm.js # Main text input & operations
+│
+├── App.js # Main app layout & routing
+├── index.js # Entry point
+├── App.css # App styles
+├── index.css # Global styles
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 📁 Project Structure
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+src/
+├── component/
+│ ├── Navbar.js # Navigation bar + theme toggle
+│ ├── TextForm.js # Main text input & operations
+│
+├── App.js # Main app layout & routing
+├── index.js # Entry point
+├── App.css # App styles
+├── index.css # Global styles
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## ⚙️ Installation & Setup
 
-## Learn More
+```bash
+# Clone the repository
+git clone https://github.com/Theanantsoni/TextUtils-ReactJS
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# Navigate to project folder
+cd TextUtils-ReactJS
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Install dependencies
+npm install
 
-### Code Splitting
+# Run development server
+npm start
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+👉 Open in browser:
+http://localhost:3000
 
-### Analyzing the Bundle Size
+🧠 Core Concepts Used
+useState → Manage text & UI state
+Props → Component communication
+Event Handling → User interactions
+Conditional Rendering → Dynamic UI updates
+Component Reusability → Clean architecture
+⚡ Performance Highlights
+Instant text processing (no delay)
+Lightweight and fast rendering
+Optimized React re-renders
+Smooth UI interactions
+🎯 Learning Outcomes
+React fundamentals (Hooks, Components)
+State & event handling
+UI/UX improvement techniques
+Building real-world mini applications
+🔥 Future Improvements
+🔍 Search & highlight text
+🌐 Multi-language support
+💾 Save text locally
+📊 Advanced analytics
+🔗 Backend integration (MERN)
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<br><br>
 
-### Making a Progressive Web App
+## 📸 Screenshots:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<br><br>
 
-### Advanced Configuration
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/3bfead7b-7c28-4942-9a3e-42696f64815e" />
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+<br><br>
 
-### Deployment
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b5989e7e-172a-49f0-ba67-fc12015f9a8b" />
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+<br><br>
 
-### `npm run build` fails to minify
+🎥 Demo
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[Add YouTube Demo Link Here]
+
+<br><br>
+
+📂 GitHub Repository
+
+https://github.com/Theanantsoni/TextUtils-ReactJS
+
+<br><br>
+
+🔗 Connect with Me
+LinkedIn:
+https://www.linkedin.com/in/anant-soni-b737662a2
+
+<br><br>
+
+🏁 Conclusion
+
+TextUtils is a solid beginner-to-intermediate React project that demonstrates:
+
+✔ Real-time data handling
+✔ Clean UI structure
+✔ Practical utility features
+
+It’s a great starting point for building more advanced React applications.
